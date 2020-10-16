@@ -5,5 +5,7 @@ I'm trying to create a Pyramid in multiple language, help me please!
 - C
 - C++
 - Javascript
-- Python
 - Java
+- PHP
+- Python
+
